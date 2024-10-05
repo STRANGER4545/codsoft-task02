@@ -1,8 +1,7 @@
 # codsoft-task02
-import java.util.Scanner;
-
-public class StudentGradeCalculator {
-    public static void main(String[] args) {
+        import java.util.Scanner;
+        public class StudentGradeCalculator {
+        public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter the number of subjects: ");
